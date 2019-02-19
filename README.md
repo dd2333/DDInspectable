@@ -15,7 +15,7 @@ Usage
 
 ### Cocoapods import:
 * DDViewInspectable is available on CocoaPods. Just add the following to your project Podfile:<br />
-  ```pod 'DDViewInspectable' ```
+  ```pod 'DDInspectable' ```
 
 ### Manual import：
 * Drag All files in the DDViewInspectable folder to project<br />
